@@ -1,0 +1,70 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-size: 105%;
+  background: white;
+    background-image: url("image1.jpg");
+    background-size: cover;
+}
+
+.header {
+  width: 30.7%;
+  margin: 50px auto 0px;
+  color: white;
+  background: green;
+  text-align: center;
+  border: 1px solid #110003;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 15px;
+    
+}
+form, .content { 
+  width: 30%;
+  height: 50%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #110003;
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+.form1 {
+  margin: 10px 0px 10px 0px;
+}
+
+.form1 input {
+  height: 32px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 17px;
+  margin-right:2px; 
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.button {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: green;
+  border: none;
+  border-radius: 5px;
+     text-align: center;
+  margin:0 auto;
+
+}
+ input[type=radio] {
+    border: 0px;
+    width: 35%;
+    height: .5em;
+}
+img.imug {
+    width: 14%;
+    border-radius: 50%;
+}
+.imgcontainer {
+    float:right;
+    
+     padding: 10px;
+}
